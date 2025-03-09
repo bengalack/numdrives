@@ -1,4 +1,4 @@
-	.allow_undocumented
+    .allow_undocumented
 
 ; ============================================================================
 ; Parameters are passed according to __sdcccall(1) found here:
@@ -133,14 +133,14 @@ _print::
     ; BIOS variant (heavy)
     push    ix
 loop:
-	ld      a, (hl)
-	and     a
-	jr      z, leave_me
+    ld      a, (hl)
+    and     a
+    jr      z, leave_me
     ld      ix, #BIOS_CHPUT
     call    callSlot
 
-	inc     hl
-	jr      loop
+    inc     hl
+    jr      loop
 
 leave_me:
     pop     ix
