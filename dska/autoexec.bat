@@ -1,2 +1,2 @@
 mode 80
-numdrives
+ndrives

@@ -1,4 +1,4 @@
-@set ONAME=numdrives
+@set ONAME=ndrives
 @set OBJ_PATH=objs\rom\
 @set DEFS=-DROM_OUTPUT_FILE=1 
 @set SRC=src\

@@ -1,4 +1,4 @@
-@set ONAME=numdrives
+@set ONAME=ndrives
 @set OBJ_PATH=objs\
 @set SRC=src\
 
