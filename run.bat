@@ -9,5 +9,4 @@ C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD2 -diska dska/ -script ope
 @REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1ST -diska dska/ -script openmsx.tcl
 @REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1GT -diska dska/ -script openmsx.tcl
 
-@REM Just for testing that MSX1 does not work
 @REM C:\tools\openmsx20\openmsx.exe -machine Spectravideo_SVI-738 -diska dska/ -script openmsx.tcl

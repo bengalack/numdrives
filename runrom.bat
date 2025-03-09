@@ -11,8 +11,3 @@ C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD2 -cart rom/numdrives.rom 
 
 
 @REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1ST -cart rom/numdrives.rom -romtype ASCII16 -command "debug set_watchpoint read_io 0x2E" -command "set throttle off" -command "after time 12 {set throttle on}"
-@REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1GT -cart rom/numdrives.rom -romtype ASCII16 -command "debug set_watchpoint read_io 0x2E" -command "set throttle off" -command "after time 12 {set throttle on}"
-@REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1GT -cart rom/numdrives.rom -romtype ASCII16 -command "debug set_watchpoint read_io 0x2E" -command "set throttle off" -command "after time 12 {set throttle on}"
-
-@REM Just for testing that MSX1 does not work
-@REM C:\tools\openmsx20\openmsx.exe -machine Spectravideo_SVI-738 -cart rom/numdrives.rom -romtype ASCII16 -command "debug set_watchpoint read_io 0x2E" -command "set throttle off" -command "after time 12 {set throttle on}"
