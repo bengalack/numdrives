@@ -1,4 +1,4 @@
-# numdrives
+# numdrives - TEST & HACK
 Just a hacky test to see if we can find the number of physical drives on an MSX.
 
 CURRENTLY NOT WORKING! Only 0 and 1 is returned.
