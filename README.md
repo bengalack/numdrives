@@ -13,6 +13,5 @@ Use `build_rom / runrom.bat`. Scripts are tailored for the openmsx emulator.
 ### Requirements
 * [SDCC](https://sdcc.sourceforge.net/) v4.2 or later, is needed though, to enable C.
 * [MSXHex](https://aoineko.org/msxgl/index.php?title=MSXhex), the best ihx-to-binary tool for MSX
-* MSX DOS if you want to use dos-version (in `dska/`) or use rom-file in `rom/`
 
 *) there might be an exception [here](https://sourceforge.net/p/msxsyssrc/git/ci/master/tree/diskdrvs/hb-f700p-alt/driver.mac), but I'm not sure if it is in use (it is not in use in the openmsx config at least)
