@@ -1,4 +1,9 @@
 debug set_watchpoint read_io 0x2E
+
+# set Subroutine      allocate memory (adjust BASIC areapointers)
+# debug set_bp 0x5ee8
+
+
 set throttle off
 after time 14 {set throttle on}
 

@@ -1,6 +1,7 @@
 @echo Make sure MSXDOS is present in the dska-folder
 @REM C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD -diska dska/ -script openmsx.tcl
-C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD2 -diska dska/ -script openmsx.tcl
+C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD -ext MegaFlashROM_SCC+_SD -diska dska/ -script openmsx.tcl
+@REM C:\tools\openmsx20\openmsx.exe -machine Sanyo_phc-70FD2 -diska dska/ -script openmsx.tcl
 @REM C:\tools\openmsx20\openmsx.exe -machine Philips_NMS_8255 -diska dska/ -script openmsx.tcl
 @REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1WX -diska dska/ -script openmsx.tcl
 @REM C:\tools\openmsx20\openmsx.exe -machine Panasonic_FS-A1WSX -diska dska/ -script openmsx.tcl

@@ -9,6 +9,7 @@
 
 
 H_STKE .equ 0xFEDA	; seems to allow for 5 bytes before next bios value: H_ISFL
+MASTER .equ 0xF348  ; main disk rom slot id
 
 msx_rom_header::
 ;----------------------------------------------------------
